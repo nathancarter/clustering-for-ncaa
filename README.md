@@ -9,9 +9,9 @@ paper.
 ### Resources available now:
 
  * [A PDF rendering of the Jupyter notebook in this folder](ncaa_region_optimizer.pdf)
+ * A link to MyBinder.org where you can run the notebook interactively: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nathancarter/clustering-for-ncaa/master?urlpath=lab/tree/ncaa_region_optimizer.ipynb)
 
 ### Resources still to come:
 
- * A link to MyBinder.org where you can run the notebook interactively
  * A preprint of the paper
 
