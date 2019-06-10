@@ -6,5 +6,12 @@ work we did in 2017-2018.  This repository contains the data and
 algorithms for part of our work, and will be referenced in the
 paper.
 
-**More information to come later.**
+### Resources available now:
+
+ * [A PDF rendering of the Jupyter notebook in this folder](ncaa-region-optimizer.pdf)
+
+### Resources still to come:
+
+ * A link to MyBinder.org where you can run the notebook interactively
+ * A preprint of the paper
 
