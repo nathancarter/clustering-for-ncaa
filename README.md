@@ -8,7 +8,7 @@ paper.
 
 ### Resources available now:
 
- * [A PDF rendering of the Jupyter notebook in this folder](ncaa-region-optimizer.pdf)
+ * [A PDF rendering of the Jupyter notebook in this folder](ncaa_region_optimizer.pdf)
 
 ### Resources still to come:
 
