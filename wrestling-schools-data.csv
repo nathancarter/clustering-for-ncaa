@@ -1,107 +1,107 @@
-﻿UniqueID,College/University Name,Street,City ,State,Latitude,Longitude,Power-1,Power-2,NCAA Asgt,ND Asgt,ND Asgt2,ND Asgt3
-1,Adrian College,10 S Madison St,Adrian,MI,41.89933656,-84.04454673,2.4514,2.9270,3,2,1,5
-2,Alfred State College  (add 2018),10 Upper College Drive,Alfred,NY,42.25433368,-77.78964604,0,0.0000,0,,,
-3,Alma College,614 W Superior St,Alma,MI,43.38001144,-84.65565437,5.1091,5.9410,3,6,1,5
-4,Augsburg,2211 Riverside Ave,Minneapolis,MN,44.96354079,-93.26783453,9.634,8.8900,2,6,5,3
-5,Augustana (IL),639 38th St,Rock Island,IL,41.47059084,-90.58373308,0,0.3010,1,2,4,3
-6,Averett University (add 2017),420 W Main St,Danville,VA,36.58314079,-79.40876963,0,0.0000,4,5,1,1
-7,Baldwin Wallace,275 Eastland Rd,Berea,OH,41.3696768,-81.86433349,2.6318,2.2720,3,6,1,5
-8,Bridgewater State University,131 Summer Street,Bridgewater ,MA,41.98880881,-70.97180703,0.1281,0.2220,6,4,6,4
-9,The College at Brockport,350 New Campus Dr,Brockport ,NY,43.211366,-77.954699,1.208,1.9350,5,4,1,1
-10,Buena Vista,610 W 4th St,Storm Lake,IA,42.64408234,-95.19900169,0.1797,0.2390,1,6,5,3
-11,Case Western Reserve,10900 Euclid Ave,Cleveland,OH,41.50273893,-81.60733449,0,0.2400,3,6,4,5
-12,Castleton University,"62 Alumni Dr,",Castleton,VT,43.60539542,-73.18517598,0.2504,0.2920,6,4,6,4
-13,Centenary (NJ),400 Jefferson St,Hackettstown,NJ,40.85399244,-74.82567817,1.2835,2.0610,5,3,3,2
-14,Central College,812 University St,Pella ,IA,41.40451929,-92.91799576,3.7993,3.4400,1,6,5,6
-15,Chicago,5801 S Ellis Ave,Chicago ,IL,41.83861021,-87.68661087,0.303,0.3240,2,2,4,6
-16,Coast Guard,31 Mohegan Ave Pkwy,New London,CT,41.33285515,-72.09627455,0.6951,0.3370,6,4,2,4
-17,Coe,1220 First Avenue NE,Cedar Rapids ,IA,41.96678846,-91.67818981,5.7495,5.7740,1,2,6,6
-18,College of Mount Saint Vincent,6301 Riverdale Ave,Bronx ,NY,40.84911597,-73.85295233,0.1378,0.2440,5,3,2,2
-19,Concordia (WI),12800 N Lake Shore Dr,Mequon,WI,43.23512416,-87.98079447,0.0755,0.4370,2,1,6,6
-20,Concordia-Moorhead,901 8th St St,Moorhead,MN,46.85868171,-96.74244891,2.2039,2.2190,2,6,5,3
-21,Cornell College,600 1st St,Mt Vernon,IA,42.03266569,-93.45964983,4.8446,5.6270,1,1,5,6
-22,Delaware Valley,700 E Butler Ave,Doylestown,PA,40.31391804,-75.12804792,5.3407,4.2300,4,3,3,2
-23,Dubuque,2000 University Ave,Dubuque,IA,42.497787,-90.692193,0.2252,0.2640,1,2,5,6
-24,Elizabethtown,1 Alpha Dr,Elizabethtown,PA,40.15326247,-76.59895613,0.2854,0.3330,5,5,3,1
-25,Elmhurst,190 S Prospect Ave,Elmhurst,IL,41.89717648,-87.94316943,4.983,6.2500,2,1,6,6
-26,Ferrum College,215 Ferrum Mountain Rd,Ferrum,VA,36.93136682,-80.01487485,1.6333,2.0240,4,5,1,1
-27,Gettysburg,300 N Washington St,Gettysburg,PA,39.83036117,-77.23386301,1.359,2.0790,4,5,3,1
-28,Greensboro College,815 W Market St,Greensboro,NC,36.07131282,-79.80138949,0.2641,0.3210,4,5,1,1
-29,Hampden-Sydney College,"80 College Rd,",Hampden Sydney ,VA,37.64882817,-78.70157159,0,0.1850,4,5,1,1
-30,Heidelberg,310 E Market St,Tiffin,OH,41.11662868,-83.1800018,2.7072,2.7380,3,6,1,5
-31,Hunter,695 Park Ave,New York,NY,40.768608,-73.96505,1.054,0.2310,5,3,2,2
-32,(EXCLUDE) Huntingdon College,1500 E Fairview Ave,Montgomery,AL,32.34724369,-86.2672602,0,0.2410,1,1,3,5
-33,Ithaca,953 Danby Rd,Ithaca,NY,42.4222,-76.5,5.1144,5.4870,5,3,6,1
-34,John Carroll,1 John Carroll Boulevard,University Heights,OH,41.4948048,-81.53482107,2.641,2.9730,3,6,1,5
-35,Johns Hopkins,400 N. Charles Street,Baltimore,MD,39.30097988,-76.61064805,0.376,0.2510,4,5,3,1
-36,Johnson & Wales (RI),8 Abbott Park Pl,Providence,RI,41.819957,-71.412757,1.8831,1.8760,6,4,2,4
-37,Keystone College,1 College Rd,La Plume,PA,41.55785316,-75.75807206,0,0.0000,5,3,6,2
-38,King's (PA),133 N River St,Wilkes-Barre,PA,41.249695,-75.879898,0.2298,0.2940,4,5,3,2
-39,Lakeland,W3718 South Dr,Plymouth,WI,43.74524838,-87.96537,0,0.2210,2,1,6,6
-40,Loras,"450 Alta Vista St,",Dubuque,IA,42.497053,-90.677158,1.6703,1.3020,1,1,5,3
-41,Luther,700 College Dr,Decorah,IA,43.3018084,-91.78499933,11.1034,11.8710,1,2,6,6
-42,Lycoming,700 College Pl,Williamsport,PA,41.246018,-77.03713,4.604,5.2940,4,5,1,1
-43,MacMurray College,447 E College Ave,Jacksonville,IL,39.72882669,-90.23136807,0,0.0000,1,2,4,6
-44,Manchester,604 E College Ave,North Manchester,IA,42.03266569,-93.45964983,0.1647,0.2390,3,1,5,6
-45,McDaniel,2 College Hill,Westminster,MD,39.5798604,-77.00658514,2.6425,3.2080,4,5,1,1
-46,Merchant Marine,300 Steamboat Rd,Kings Point,NY,40.81701767,-73.74065971,1.5855,2.3420,5,3,2,4
-47,Messiah,1 College Ave,Mechanicsburg,PA,40.21145616,-77.00603344,16.228,17.7960,4,5,3,1
-48,Millikin,184 W Main St,Decatur,IL,39.85565673,-88.93382251,1.4585,1.8700,1,2,4,6
-49,Milwaukee School of Engineering,1025 N Broadway,Milwaukee,WI,43.0641114,-87.96721631,0,0.2780,2,2,6,6
-50,Mount St. Joseph,5701 Delhi Ave,Cincinnati,OH,39.14291321,-84.50366914,0,0.0000,3,2,4,5
-51,Mount Union,1972 Clark Ave,Alliance,OH,40.91050774,-81.11891501,1.7452,1.7810,3,6,1,5
-52,Muhlenberg,2400 W Chew St,Allentown,PA,40.59610027,-75.47553833,0.2137,0.2660,5,3,3,2
-53,Muskingum,163 Stormont St,New Concord,OH,39.99488273,-81.73795112,0.1861,0.2310,3,6,4,5
-54,Nebraska Wesleyan University,5000 St Paul Ave,Lincoln,NE,40.83878457,-96.64759674,0.1163,0.2140,1,6,5,3
-55,New England College,"98 Bridge St,",Henniker,NH,43.18151903,-71.8188207,0.0743,0.1850,6,4,6,4
-56,New York University,383 Lafayette Street,New York,NY,40.727565,-73.993012,4.5885,3.8470,6,3,2,4
-57,North Central (IL),30 North Brainard Street,Naperville,IL,41.7491725,-88.162019,0.9232,0.5930,1,2,4,6
-58,Norwich,158 Harmon Dr,Northfield,VT,44.15306006,-72.65573302,0.1968,0.2480,6,4,6,4
-59,Ohio Northern,525 S Main St,Ada,OH,40.76803657,-83.82468682,0.2551,0.2980,3,6,4,5
-60,Ohio Wesleyan (add 2018),61 S Sandusky St,Delaware,OH,40.28692355,-83.0752013,0,0.0000,0,,,
-61,Olivet,320 S Main St,Olivet,MI,42.44399692,-84.92461332,0.2639,0.3040,3,2,4,5
-62,Otterbein University,1 S Grove St,Westerville,OH,40.12436445,-82.92124969,0.2962,0.3370,3,6,4,5
-63,EXCLUDE Pacific,2043 College Way,Forest Grove,OR,45.52139832,-123.1088146,0,0.0000,2,1,3,3
-64,Penn State - Behrend (add 2017),4701 Behrend College D,Erie,PA,42.1166824,-80.07314347,0,0.0000,4,4,1,1
-65,Pennsylvania College (add 2017),1 College Ave,Williamsport,PA,41.234354,-77.021989,0,0.0000,4,5,3,1
-66,Plymouth State,17 High St,Plymouth,NH,43.74130128,-71.69348379,0,0.2730,6,4,6,4
-67,Rhode Island,600 Mt Pleasant Ave,Providence,RI,41.844645,-71.457534,2.4072,2.8500,6,4,2,4
-68,Rochester Institute of Technology,Lomb Memorial Dr,Rochester,NY,42.6687355,-75.44096178,1.009,0.2980,5,3,2,2
-69,Roger Williams,1 Old Ferry Road,Bristol,RI,41.67612732,-71.27328702,3.9882,4.3830,6,4,2,4
-70,Scranton,800 Linden St,Scranton,PA,41.40437294,-75.66491269,0,0.3930,5,4,2,2
-71,Simpson,"701 N C St,",Indianola,IA,41.36237955,-93.56589233,0.2469,0.2820,1,6,5,3
-72,Southern Maine,96 Falmouth St,Portland,ME,43.72360765,-70.25557016,0.5038,0.5470,6,4,6,4
-73,Southern Virginia University,1 University Hill Dr,Buena Vista,VA,37.7315905,-79.35654236,0.1603,0.2450,4,5,1,1
-74,Springfield,263 Alden Street,Springfield,MA,42.102207,-72.556609,0.151,0.5280,6,4,2,4
-75,St. Johns (MN),2850 Abbey Plaza,Collegeville,MN,45.54330591,-94.4447067,0.368,0.4230,2,6,5,3
-76,St. Olaf,1520 St Olaf Ave,Northfield,MN,44.45533567,-93.16973796,1.359,1.9600,2,1,5,3
-77,Stevens Institute Of Technology,1 Castle Point Terrace,Hoboken,NJ,40.7452002,-74.02797097,5.513,6.6440,5,3,2,2
-78,SUNY-Cortland,2 Graham Ave,Cortland,NY,42.6003928,-76.17840765,6.4323,6.4450,5,3,2,2
-79,SUNY-Oneonta,08 Ravine Pkwy,Oneonta,NY,42.6687355,-75.44096178,0.376,0.3340,5,3,2,2
-80,SUNY-Oswego,7060 New York 104,Oswego,NY,42.6687355,-75.44096178,0,0.3720,5,3,6,2
-81,The College of New Jersey,2000 Pennington Rd,Ewing Township,NJ,40.12272985,-74.70346139,1.7335,1.7040,5,3,3,2
-82,Thiel,College Ave,Greenville,PA,41.40507533,-80.38381153,0.2012,0.2630,4,6,6,5
-83,Thomas More College,333 Thomas More Pkwy,Crestview Hills,KY,39.02488752,-84.56955169,0.1162,0.2200,3,2,4,5
-84,Trine University,1 University Ave,Angola,IN,41.64336701,-85.00412812,0.1593,0.2390,3,2,4,5
-85,Trinity (CT),300 Summit St,Hartford,CT,41.74513266,-72.69049722,0.2247,0.2740,6,3,6,4
-86,(EXCLUDE) University of the Ozarks,415 N College Ave,Clarksville,AR,35.4567154,-93.48082565,0.2306,0.3030,1,1,3,2
-87,Ursinus,01 E Main St,Collegeville,PA,40.18724249,-75.45806859,0.887,0.5220,5,3,3,2
-88,Wabash,01 W Wabash Ave,Crawfordsville,IN,40.04325862,-86.89669866,10.21,9.8450,3,2,4,6
-89,Wartburg,100 Wartburg Blvd,Waverly,IA,42.72512969,-92.46976202,23.0051,22.9910,1,4,4,3
-90,Washington and Jefferson,60 S Lincoln St,Washington,PA,40.17396328,-80.24672879,4.1063,4.5450,3,6,1,5
-91,Washington and Lee,"204 W Washington St,",Lexington,VA,37.78251178,-79.44387717,0.2797,0.3000,4,5,1,1
-92,Waynesburg,51 W College S,Waynesburg,PA,39.8982937,-80.18558176,1.0596,0.3370,3,5,1,5
-93,Wesleyan (CT),45 Wyllys Ave,Middletown,CT,41.54763592,-72.65487658,0,0.3570,6,4,2,4
-94,Western New England,1215 Wilbraham Rd,Springfield,MA,42.113406,-72.522606,0.2126,0.2710,6,4,6,4
-95, Westminster (add 2017),501 Westminster Ave,Fulton,MO,38.850003,-91.954548,0,0.0000,1,2,4,6
-96,Wheaton (IL),501 College Ave,Wheaton,IL,41.85610452,-88.10861414,1.5323,1.5520,2,1,4,3
-97,Wilkes,84 W South St,Wilkes-Barre,PA,41.244404,-75.888692,0.752,0.3950,4,5,3,2
-98,Williams College,880 Main St,Williamstown,MA,42.70869528,-73.20121253,2.9415,2.8940,6,3,2,4
-99,Wisconsin-Eau Claire,105 Garfield Ave,Eau Claire,WI,44.82048383,-91.49477515,2.3405,2.7170,2,1,5,3
-100,Wisconsin-La Crosse,1725 State St,La Crosse ,WI,43.82319993,-91.22774223,7.0943,7.0950,2,1,6,6
-101,Wisconsin-Oshkosh,800 Algoma Blvd,Oshkosh,WI,44.7536765,-89.63679943,0,0.2940,2,1,5,3
-102,Wisconsin-Platteville,1 University Plaza,Plattville,WI,42.73326047,-90.47085142,0.2265,0.5710,2,1,5,6
-103,Wisconsin-Stevens Point,100 Main St,Stevens Point,WI,44.52529024,-89.55483581,2.869,3.5240,2,1,5,3
-104,Wisconsin-Whitewater,800 W Main St,Whitewater,WI,44.7536765,-89.63679943,4.5731,3.0800,2,1,5,3
-105,Worcester Polytechnic,00 Institute Rd,Worcester,MA,42.09684686,-71.51170183,0.6456,0.3080,6,4,2,4
-106,York (PA),443 Country Club Rd,York,PA,39.96510038,-76.73153121,2.9504,3.3520,4,5,3,1
+﻿UniqueID,College/University Name,Street,City ,State,Latitude,Longitude,Power-1,Power-2,NCAA Asgt,ND Asgt,ND Asgt2,ND Asgt3,Purdue Asgt1,Purdue Asgt2,WSU Asgt1,WSU Asgt2
+1,Adrian College,10 S Madison St,Adrian,MI,41.89933656,-84.04454673,2.4514,2.927,3,2,1,5,4,2,2,6
+2,Alfred State College  (add 2018),10 Upper College Drive,Alfred,NY,42.25433368,-77.78964604,0,0,,,,,5,7,4,4
+3,Alma College,614 W Superior St,Alma,MI,43.38001144,-84.65565437,5.1091,5.941,3,6,1,5,4,2,5,6
+4,Augsburg,2211 Riverside Ave,Minneapolis,MN,44.96354079,-93.26783453,9.634,8.89,2,6,5,3,5,4,6,5
+5,Augustana (IL),639 38th St,Rock Island,IL,41.47059084,-90.58373308,0,0.301,1,2,4,3,3,2,5,5
+6,Averett University (add 2017),420 W Main St,Danville,VA,36.58314079,-79.40876963,0,0,4,5,1,1,6,1,6,7
+7,Baldwin Wallace,275 Eastland Rd,Berea,OH,41.3696768,-81.86433349,2.6318,2.272,3,6,1,5,4,3,4,6
+8,Bridgewater State University,131 Summer Street,Bridgewater ,MA,41.98880881,-70.97180703,0.1281,0.222,6,4,6,4,2,6,3,1
+9,The College at Brockport,350 New Campus Dr,Brockport ,NY,43.211366,-77.954699,1.208,1.935,5,4,1,1,5,8,4,4
+10,Buena Vista,610 W 4th St,Storm Lake,IA,42.64408234,-95.19900169,0.1797,0.239,1,6,5,3,3,2,2,3
+11,Case Western Reserve,10900 Euclid Ave,Cleveland,OH,41.50273893,-81.60733449,0,0.24,3,6,4,5,4,3,4,2
+12,Castleton University,"62 Alumni Dr,",Castleton,VT,43.60539542,-73.18517598,0.2504,0.292,6,4,6,4,2,8,3,4
+13,Centenary (NJ),400 Jefferson St,Hackettstown,NJ,40.85399244,-74.82567817,1.2835,2.061,5,3,3,2,1,7,1,1
+14,Central College,812 University St,Pella ,IA,41.40451929,-92.91799576,3.7993,3.44,1,6,5,6,3,2,2,3
+15,Chicago,5801 S Ellis Ave,Chicago ,IL,41.83861021,-87.68661087,0.303,0.324,2,2,4,6,5,7,5,2
+16,Coast Guard,31 Mohegan Ave Pkwy,New London,CT,41.33285515,-72.09627455,0.6951,0.337,6,4,2,4,6,3,3,8
+17,Coe,1220 First Avenue NE,Cedar Rapids ,IA,41.96678846,-91.67818981,5.7495,5.774,1,2,6,6,3,2,2,6
+18,College of Mount Saint Vincent,6301 Riverdale Ave,Bronx ,NY,40.84911597,-73.85295233,0.1378,0.244,5,3,2,2,1,6,1,8
+19,Concordia (WI),12800 N Lake Shore Dr,Mequon,WI,43.23512416,-87.98079447,0.0755,0.437,2,1,6,6,3,4,5,4
+20,Concordia-Moorhead,901 8th St St,Moorhead,MN,46.85868171,-96.74244891,2.2039,2.219,2,6,5,3,5,4,2,3
+21,Cornell College,600 1st St,Mt Vernon,IA,42.03266569,-93.45964983,4.8446,5.627,1,1,5,6,3,2,2,3
+22,Delaware Valley,700 E Butler Ave,Doylestown,PA,40.31391804,-75.12804792,5.3407,4.23,4,3,3,2,1,3,1,8
+23,Dubuque,2000 University Ave,Dubuque,IA,42.497787,-90.692193,0.2252,0.264,1,2,5,6,3,7,2,5
+24,Elizabethtown,1 Alpha Dr,Elizabethtown,PA,40.15326247,-76.59895613,0.2854,0.333,5,5,3,1,1,1,6,6
+25,Elmhurst,190 S Prospect Ave,Elmhurst,IL,41.89717648,-87.94316943,4.983,6.25,2,1,6,6,5,2,4,8
+26,Ferrum College,215 Ferrum Mountain Rd,Ferrum,VA,36.93136682,-80.01487485,1.6333,2.024,4,5,1,1,6,1,6,7
+27,Gettysburg,300 N Washington St,Gettysburg,PA,39.83036117,-77.23386301,1.359,2.079,4,5,3,1,6,1,6,7
+28,Greensboro College,815 W Market St,Greensboro,NC,36.07131282,-79.80138949,0.2641,0.321,4,5,1,1,6,1,6,7
+29,Hampden-Sydney College,"80 College Rd,",Hampden Sydney ,VA,37.64882817,-78.70157159,0,0.185,4,5,1,1,6,1,6,7
+30,Heidelberg,310 E Market St,Tiffin,OH,41.11662868,-83.1800018,2.7072,2.738,3,6,1,5,3,3,4,6
+31,Hunter,695 Park Ave,New York,NY,40.768608,-73.96505,1.054,0.231,5,3,2,2,1,7,1,8
+32,(EXCLUDE) Huntingdon College,1500 E Fairview Ave,Montgomery,AL,32.34724369,-86.2672602,0,0.241,1,1,3,5,,,,
+33,Ithaca,953 Danby Rd,Ithaca,NY,42.4222,-76.5,5.1144,5.487,5,3,6,1,5,7,3,7
+34,John Carroll,1 John Carroll Boulevard,University Heights,OH,41.4948048,-81.53482107,2.641,2.973,3,6,1,5,4,3,4,6
+35,Johns Hopkins,400 N. Charles Street,Baltimore,MD,39.30097988,-76.61064805,0.376,0.251,4,5,3,1,6,1,6,7
+36,Johnson & Wales (RI),8 Abbott Park Pl,Providence,RI,41.819957,-71.412757,1.8831,1.876,6,4,2,4,2,6,3,1
+37,Keystone College,1 College Rd,La Plume,PA,41.55785316,-75.75807206,0,0,5,3,6,2,1,6,4,4
+38,King's (PA),133 N River St,Wilkes-Barre,PA,41.249695,-75.879898,0.2298,0.294,4,5,3,2,6,4,1,6
+39,Lakeland,W3718 South Dr,Plymouth,WI,43.74524838,-87.96537,0,0.221,2,1,6,6,3,7,5,5
+40,Loras,"450 Alta Vista St,",Dubuque,IA,42.497053,-90.677158,1.6703,1.302,1,1,5,3,3,2,5,5
+41,Luther,700 College Dr,Decorah,IA,43.3018084,-91.78499933,11.1034,11.871,1,2,6,6,3,2,6,3
+42,Lycoming,700 College Pl,Williamsport,PA,41.246018,-77.03713,4.604,5.294,4,5,1,1,6,6,4,4
+43,MacMurray College,447 E College Ave,Jacksonville,IL,39.72882669,-90.23136807,0,0,1,2,4,6,4,5,5,5
+44,Manchester,604 E College Ave,North Manchester,IA,42.03266569,-93.45964983,0.1647,0.239,3,1,5,6,3,3,2,3
+45,McDaniel,2 College Hill,Westminster,MD,39.5798604,-77.00658514,2.6425,3.208,4,5,1,1,6,1,1,7
+46,Merchant Marine,300 Steamboat Rd,Kings Point,NY,40.81701767,-73.74065971,1.5855,2.342,5,3,2,4,1,6,3,8
+47,Messiah,1 College Ave,Mechanicsburg,PA,40.21145616,-77.00603344,16.228,17.796,4,5,3,1,1,1,1,4
+48,Millikin,184 W Main St,Decatur,IL,39.85565673,-88.93382251,1.4585,1.87,1,2,4,6,4,5,5,5
+49,Milwaukee School of Engineering,1025 N Broadway,Milwaukee,WI,43.0641114,-87.96721631,0,0.278,2,2,6,6,5,5,5,2
+50,Mount St. Joseph,5701 Delhi Ave,Cincinnati,OH,39.14291321,-84.50366914,0,0,3,2,4,5,6,5,6,5
+51,Mount Union,1972 Clark Ave,Alliance,OH,40.91050774,-81.11891501,1.7452,1.781,3,6,1,5,4,3,6,6
+52,Muhlenberg,2400 W Chew St,Allentown,PA,40.59610027,-75.47553833,0.2137,0.266,5,3,3,2,1,6,1,8
+53,Muskingum,163 Stormont St,New Concord,OH,39.99488273,-81.73795112,0.1861,0.231,3,6,4,5,4,5,6,2
+54,Nebraska Wesleyan University,5000 St Paul Ave,Lincoln,NE,40.83878457,-96.64759674,0.1163,0.214,1,6,5,3,3,2,2,3
+55,New England College,"98 Bridge St,",Henniker,NH,43.18151903,-71.8188207,0.0743,0.185,6,4,6,4,2,8,3,1
+56,New York University,383 Lafayette Street,New York,NY,40.727565,-73.993012,4.5885,3.847,6,3,2,4,1,6,1,1
+57,North Central (IL),30 North Brainard Street,Naperville,IL,41.7491725,-88.162019,0.9232,0.593,1,2,4,6,5,7,5,2
+58,Norwich,158 Harmon Dr,Northfield,VT,44.15306006,-72.65573302,0.1968,0.248,6,4,6,4,2,8,3,4
+59,Ohio Northern,525 S Main St,Ada,OH,40.76803657,-83.82468682,0.2551,0.298,3,6,4,5,4,2,4,2
+60,Ohio Wesleyan (add 2018),61 S Sandusky St,Delaware,OH,40.28692355,-83.0752013,0,0,,,,,4,5,5,2
+61,Olivet,320 S Main St,Olivet,MI,42.44399692,-84.92461332,0.2639,0.304,3,2,4,5,5,7,5,2
+62,Otterbein University,1 S Grove St,Westerville,OH,40.12436445,-82.92124969,0.2962,0.337,3,6,4,5,4,5,4,2
+63,EXCLUDE Pacific,2043 College Way,Forest Grove,OR,45.52139832,-123.1088146,0,0,2,1,3,3,,,,
+64,Penn State - Behrend (add 2017),4701 Behrend College D,Erie,PA,42.1166824,-80.07314347,0,0,4,4,1,1,2,7,4,4
+65,Pennsylvania College (add 2017),1 College Ave,Williamsport,PA,41.234354,-77.021989,0,0,4,5,3,1,1,4,4,6
+66,Plymouth State,17 High St,Plymouth,NH,43.74130128,-71.69348379,0,0.273,6,4,6,4,2,8,3,1
+67,Rhode Island,600 Mt Pleasant Ave,Providence,RI,41.844645,-71.457534,2.4072,2.85,6,4,2,4,2,3,3,1
+68,Rochester Institute of Technology,Lomb Memorial Dr,Rochester,NY,42.6687355,-75.44096178,1.009,0.298,5,3,2,2,2,7,1,4
+69,Roger Williams,1 Old Ferry Road,Bristol,RI,41.67612732,-71.27328702,3.9882,4.383,6,4,2,4,5,4,3,1
+70,Scranton,800 Linden St,Scranton,PA,41.40437294,-75.66491269,0,0.393,5,4,2,2,6,6,1,8
+71,Simpson,"701 N C St,",Indianola,IA,41.36237955,-93.56589233,0.2469,0.282,1,6,5,3,3,5,2,3
+72,Southern Maine,96 Falmouth St,Portland,ME,43.72360765,-70.25557016,0.5038,0.547,6,4,6,4,2,8,3,1
+73,Southern Virginia University,1 University Hill Dr,Buena Vista,VA,37.7315905,-79.35654236,0.1603,0.245,4,5,1,1,6,1,6,7
+74,Springfield,263 Alden Street,Springfield,MA,42.102207,-72.556609,0.151,0.528,6,4,2,4,2,8,3,1
+75,St. Johns (MN),2850 Abbey Plaza,Collegeville,MN,45.54330591,-94.4447067,0.368,0.423,2,6,5,3,5,4,2,3
+76,St. Olaf,1520 St Olaf Ave,Northfield,MN,44.45533567,-93.16973796,1.359,1.96,2,1,5,3,5,4,2,3
+77,Stevens Institute Of Technology,1 Castle Point Terrace,Hoboken,NJ,40.7452002,-74.02797097,5.513,6.644,5,3,2,2,1,6,3,8
+78,SUNY-Cortland,2 Graham Ave,Cortland,NY,42.6003928,-76.17840765,6.4323,6.445,5,3,2,2,2,8,3,1
+79,SUNY-Oneonta,08 Ravine Pkwy,Oneonta,NY,42.6687355,-75.44096178,0.376,0.334,5,3,2,2,2,8,1,4
+80,SUNY-Oswego,7060 New York 104,Oswego,NY,42.6687355,-75.44096178,0,0.372,5,3,6,2,2,8,4,4
+81,The College of New Jersey,2000 Pennington Rd,Ewing Township,NJ,40.12272985,-74.70346139,1.7335,1.704,5,3,3,2,6,6,1,8
+82,Thiel,College Ave,Greenville,PA,41.40507533,-80.38381153,0.2012,0.263,4,6,6,5,4,3,4,2
+83,Thomas More College,333 Thomas More Pkwy,Crestview Hills,KY,39.02488752,-84.56955169,0.1162,0.22,3,2,4,5,6,5,5,2
+84,Trine University,1 University Ave,Angola,IN,41.64336701,-85.00412812,0.1593,0.239,3,2,4,5,3,3,5,2
+85,Trinity (CT),300 Summit St,Hartford,CT,41.74513266,-72.69049722,0.2247,0.274,6,3,6,4,2,3,1,8
+86,(EXCLUDE) University of the Ozarks,415 N College Ave,Clarksville,AR,35.4567154,-93.48082565,0.2306,0.303,1,1,3,2,,,,
+87,Ursinus,01 E Main St,Collegeville,PA,40.18724249,-75.45806859,0.887,0.522,5,3,3,2,1,6,1,7
+88,Wabash,01 W Wabash Ave,Crawfordsville,IN,40.04325862,-86.89669866,10.21,9.845,3,2,4,6,4,5,4,7
+89,Wartburg,100 Wartburg Blvd,Waverly,IA,42.72512969,-92.46976202,23.0051,22.991,1,4,4,3,3,5,5,2
+90,Washington and Jefferson,60 S Lincoln St,Washington,PA,40.17396328,-80.24672879,4.1063,4.545,3,6,1,5,4,5,6,8
+91,Washington and Lee,"204 W Washington St,",Lexington,VA,37.78251178,-79.44387717,0.2797,0.3,4,5,1,1,6,1,6,7
+92,Waynesburg,51 W College S,Waynesburg,PA,39.8982937,-80.18558176,1.0596,0.337,3,5,1,5,6,5,6,6
+93,Wesleyan (CT),45 Wyllys Ave,Middletown,CT,41.54763592,-72.65487658,0,0.357,6,4,2,4,1,6,1,8
+94,Western New England,1215 Wilbraham Rd,Springfield,MA,42.113406,-72.522606,0.2126,0.271,6,4,6,4,2,8,3,4
+95,Westminster (add 2017),501 Westminster Ave,Fulton,MO,38.850003,-91.954548,0,0,1,2,4,6,4,5,2,3
+96,Wheaton (IL),501 College Ave,Wheaton,IL,41.85610452,-88.10861414,1.5323,1.552,2,1,4,3,5,7,5,6
+97,Wilkes,84 W South St,Wilkes-Barre,PA,41.244404,-75.888692,0.752,0.395,4,5,3,2,1,6,1,6
+98,Williams College,880 Main St,Williamstown,MA,42.70869528,-73.20121253,2.9415,2.894,6,3,2,4,2,8,3,1
+99,Wisconsin-Eau Claire,105 Garfield Ave,Eau Claire,WI,44.82048383,-91.49477515,2.3405,2.717,2,1,5,3,5,7,2,3
+100,Wisconsin-La Crosse,1725 State St,La Crosse ,WI,43.82319993,-91.22774223,7.0943,7.095,2,1,6,6,5,4,2,5
+101,Wisconsin-Oshkosh,800 Algoma Blvd,Oshkosh,WI,44.7536765,-89.63679943,0,0.294,2,1,5,3,5,5,2,5
+102,Wisconsin-Platteville,1 University Plaza,Plattville,WI,42.73326047,-90.47085142,0.2265,0.571,2,1,5,6,3,2,5,5
+103,Wisconsin-Stevens Point,100 Main St,Stevens Point,WI,44.52529024,-89.55483581,2.869,3.524,2,1,5,3,5,4,4,5
+104,Wisconsin-Whitewater,800 W Main St,Whitewater,WI,44.7536765,-89.63679943,4.5731,3.08,2,1,5,3,3,4,2,5
+105,Worcester Polytechnic,00 Institute Rd,Worcester,MA,42.09684686,-71.51170183,0.6456,0.308,6,4,2,4,2,4,3,1
+106,York (PA),443 Country Club Rd,York,PA,39.96510038,-76.73153121,2.9504,3.352,4,5,3,1,1,1,6,7
