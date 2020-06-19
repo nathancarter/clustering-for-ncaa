@@ -17,8 +17,13 @@ def uniform_crossover ( list1, list2 ):
 # define mutation: with the given chance, tweak one gene in the individual
 def mutate ( individual, chance, maximum ):
     if random.random() < chance:
-        individual[random.randint( 0, len( individual ) - 1 )] = \
-            random.randint( 0, maximum )
+        if random.random() < 0.5:
+            i = random.randint( 0, len( individual ) - 1 )
+            j = random.randint( 0, len( individual ) - 1 )
+            individual[i], individual[j] = individual[j], individual[i]
+        else:
+            individual[random.randint( 0, len( individual ) - 1 )] = \
+                random.randint( 0, maximum )
 # how to pick the best fit from a population,
 # assuming each element in the population is a (individual,fitness) pair
 def get_score ( scored_individual ):
