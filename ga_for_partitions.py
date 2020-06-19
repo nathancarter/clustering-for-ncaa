@@ -21,15 +21,17 @@ def mutate ( individual, chance, maximum ):
             random.randint( 0, maximum )
 # how to pick the best fit from a population,
 # assuming each element in the population is a (individual,fitness) pair
+def get_score ( scored_individual ):
+    return scored_individual[1]
 def pick_best ( population, num_to_pick ):
-    population.sort( key=lambda pair: pair[1] )
+    population.sort( key=get_score )
     return population[-num_to_pick:]
 
 # how to do an optimization
 def optimize_partition (
         initial_pool = None, # initial set of partitions to evolve
         size_of_partition = 5, # number of parts to create
-        prob_mutate = 0.1, # prob for each entry in a new birth to mutate
+        prob_mutate = 0.1, # prob for a new offspring to have a mutation
         births_per_generation = None, # how many breedings to do each generation
         num_generations = 1000, # how long to run the genetic algorithm for
         objective_function = None, # must provide this, maps partitions to floats
@@ -38,8 +40,6 @@ def optimize_partition (
     # how to attach/extract a score to/from an individual
     def with_score ( individual ):
         return ( individual, objective_function( individual ) )
-    def get_score ( scored_individual ):
-        return scored_individual[1]
     # how to produce a baby:
     # 1. breed the parents
     # 2. maybe apply mutation
@@ -50,7 +50,7 @@ def optimize_partition (
         return with_score( baby )
     # use the initial population we were given, with fitness values added:
     population = [ with_score( individual ) for individual in initial_pool ]
-    population.sort( key=lambda pair: pair[1] )
+    population.sort( key=get_score )
     # fill in default value(s):
     if births_per_generation == None:
         births_per_generation = len( initial_pool )
