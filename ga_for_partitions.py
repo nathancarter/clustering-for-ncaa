@@ -6,7 +6,7 @@ import random, statistics
 import time, datetime
 
 # we want execution to be faster
-import pathos
+import pathos # this works only if you've done conda install pathos -c conda-forge
 
 # how to choose a single element from a pair
 def pick_one_from_pair ( pair ):
