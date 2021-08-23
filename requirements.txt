@@ -1,7 +1,7 @@
 pandas
 geopy==1.20.*
 plotly==3.9.*
-jupyterlab==0.35
+jupyterlab==1.2.21
 ipywidgets>=7.2
 tqdm==4.32.*
 matplotlib==3.1.*
